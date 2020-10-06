@@ -1,0 +1,58 @@
+{
+    "products":[
+        {
+            "_id":"item1",
+            "title":"sometitle",
+            "image":"/images/item1.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200.12
+            
+        },
+        {
+            "_id":"item2",
+            "title":"sometitle",
+            "image":"/images/item2.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200
+            
+        },
+        {
+            "_id":"item3",
+            "title":"sometitle",
+            "image":"/images/item3.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200
+            
+        },
+        {
+            "_id":"item4",
+            "title":"sometitle",
+            "image":"/images/item4.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200
+            
+        },
+        {
+            "_id":"item5",
+            "title":"sometitle",
+            "image":"/images/item5.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200
+            
+        },
+        {
+            "_id":"item6",
+            "title":"sometitle",
+            "image":"/images/item6.jpg",
+            "description":"italian vase",
+            "dimension":["23","12","32"],
+            "price":200
+            
+        }
+    ]
+}
