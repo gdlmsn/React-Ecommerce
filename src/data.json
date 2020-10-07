@@ -11,9 +11,9 @@
         },
         {
             "_id":"item2",
-            "title":"sometitle hjasdfhjdsa",
+            "title":"sometitle the title",
             "image":"/images/item2.jpg",
-            "description":"italian vase",
+            "description":"lore ipsum quam doloret carew seasimus resti morte memento mori eius rosa pulcra puella",
             "category":["antiques","plates"],
             "price":123
             
