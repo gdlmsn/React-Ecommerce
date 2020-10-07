@@ -2,7 +2,7 @@
     "products":[
         {
             "_id":"item1",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item1.jpg",
             "description":"italian vase",
             "category":["antiques","vases"],
@@ -11,7 +11,7 @@
         },
         {
             "_id":"item2",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item2.jpg",
             "description":"italian vase",
             "category":["antiques","plates"],
@@ -20,7 +20,7 @@
         },
         {
             "_id":"item3",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item3.jpg",
             "description":"italian vase",
             "category":["antiques","lamps"],
@@ -29,7 +29,7 @@
         },
         {
             "_id":"item4",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item4.jpg",
             "description":"italian vase",
             "category":["antiques","bedsidetables"],
@@ -38,7 +38,7 @@
         },
         {
             "_id":"item5",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item5.jpg",
             "description":"italian vase",
             "category":["antiques","tables"],
@@ -47,7 +47,7 @@
         },
         {
             "_id":"item6",
-            "title":"sometitle",
+            "title":"sometitle hjasdfhjdsa",
             "image":"/images/item6.jpg",
             "description":"italian vase",
             "category":["antiques","chairs"],
