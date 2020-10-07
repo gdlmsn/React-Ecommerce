@@ -5,8 +5,8 @@
             "title":"sometitle",
             "image":"/images/item1.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200.12
+            "category":["antiques","vases"],
+            "price":10.12
             
         },
         {
@@ -14,8 +14,8 @@
             "title":"sometitle",
             "image":"/images/item2.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200
+            "category":["antiques","plates"],
+            "price":123
             
         },
         {
@@ -23,8 +23,8 @@
             "title":"sometitle",
             "image":"/images/item3.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200
+            "category":["antiques","lamps"],
+            "price":27.2
             
         },
         {
@@ -32,8 +32,8 @@
             "title":"sometitle",
             "image":"/images/item4.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200
+            "category":["antiques","bedsidetables"],
+            "price":11.7
             
         },
         {
@@ -41,8 +41,8 @@
             "title":"sometitle",
             "image":"/images/item5.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200
+            "category":["antiques","tables"],
+            "price":34.6
             
         },
         {
@@ -50,8 +50,8 @@
             "title":"sometitle",
             "image":"/images/item6.jpg",
             "description":"italian vase",
-            "dimension":["23","12","32"],
-            "price":200
+            "category":["antiques","chairs"],
+            "price":42.8
             
         }
     ]
