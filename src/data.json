@@ -14,7 +14,7 @@
             "title":"sometitle the title",
             "image":"/images/item2.jpg",
             "description":"lore ipsum quam doloret carew seasimus resti morte memento mori eius rosa pulcra puella",
-            "category":["antiques","plates"],
+            "category":["antiques","plates", "lamps"],
             "price":123
             
         },
@@ -32,7 +32,7 @@
             "title":"sometitle hjasdfhjdsa",
             "image":"/images/item4.jpg",
             "description":"italian vase",
-            "category":["antiques","bedsidetables"],
+            "category":["antiques","bedsidetables", "lamps"],
             "price":11.7
             
         },
